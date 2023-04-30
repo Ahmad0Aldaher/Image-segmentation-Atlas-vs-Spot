@@ -3,6 +3,9 @@
 # Detection and segmentation for two of Boston Dynamics robots Atlas and Spot 
 This project uses YOLOv8 and Mask RCNN model using Detectron2 to detect and do instance segmentation for two of Boston Dynamics robots Atlas and Spot in different images.
 
+The following [Colab link ](https://colab.research.google.com/drive/11uJt99JXrBQZDseFpLRuMqzHnsvR0gjd#scrollTo=QFcwiO2mBqOp)
+ includes the implementation of both models.
+
 ## Project steps:
 ### 1. **step1:** I collected 100 image for both robots (50 for each) 
 ### 2. **step2:** I annotated the images on Roboflow for segmentation. 
